@@ -24,19 +24,16 @@
       "conways game of life implementation in python, still wip",
       "https://github.com/marangaa/conways_game"
     ],
-
     [
-      "wyag",
-      "write yourself a git implementation in python",
-      "https://github.com/marangaa/wyag"
-    ],
-
-    [
-      "python http server",
+      "http server",
       "simple http server in python",
       "https://github.com/marangaa/codecrafters-http-server-python"
+    ],
+    [
+      "wyag",
+      "write your own git in python",
+      "https://github.com/marangaa/wyag"
     ]
-
   ],
   "colors": {
     "background": "#0C0623",
