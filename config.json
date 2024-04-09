@@ -10,7 +10,7 @@
   "title": "WebShell",
   "username": "visitor",
   "hostname": "webshell",
-  "password": "050823",
+  "password": "*********",
   "repoLink": "https://github.com/marangaa/webshell",
   "social": {
     "email": "rchdmaranga@gmail.com",
@@ -23,6 +23,18 @@
       "game of life",
       "conways game of life implementation in python, still wip",
       "https://github.com/marangaa/conways_game"
+    ],
+
+    [
+      "wyag",
+      "write yourself a git implementation in python",
+      "https://github.com/marangaa/wyag"
+    ],
+
+    [
+      "python http server",
+      "simple http server in python",
+      "https://github.com/marangaa/codecrafters-http-server-python"
     ]
 
   ],
